@@ -1,0 +1,70 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body, html {
+    height: 100%;
+    font-family: Arial, sans-serif;
+    color: #fff;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: url('https://pixeljoint.com/files/icons/full/gamemockup_animation2_1.gif') center center fixed;
+    background-size: cover;
+
+}
+
+.overlay {
+    background-color: rgba(0, 0, 0, 0.7);
+    padding: 40px;
+    border-radius: 10px;
+}
+
+.overlay h1 {
+    margin-bottom: 20px; 
+}
+
+.overlay h2 {
+    margin-top: 0;
+    margin-bottom: 25px; 
+}
+
+.icons {
+    margin-top: 20px;
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+}
+
+.icon {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+}
+
+.icons a {
+    display: inline-block;
+    transition: transform 0.3s;
+}
+
+.icons a:hover {
+    transform: scale(1.5);
+}
+
+.icons img {
+    width: 50px; 
+    height: 50px;
+    margin-bottom: 5px;
+    filter: invert(100%);
+}
+
+.icons icon-txt {
+    font-size: 14px;
+    margin-top: 5px;
+    color: #fff;
+    display: block;
+}
