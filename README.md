@@ -1,17 +1,6 @@
-Simple HTML/CSS Website to host my social links
+THIS WEBSITE IS LIVE @ www.nstrang.com
 
-The purpose of this project is to have a central hub for important information to employers or those curious of my work
+In the process of swapping hosting over into S3 buckets
 
-links included:
-Github,
-Linkedin,
-Resume in a dropbox
 
-this website features:
-
-CSS styling,
-CSS animation,
-HTML images/links
-
-(I have had this for quite a while, I just forgot to add it to my github...)
 
