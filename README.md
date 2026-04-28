@@ -1,12 +1,10 @@
-THIS WEBSITE IS LIVE @ www.nstrang.com
-
-In the process of swapping hosting onto AWS
+Website is currently offline, waiting on AWS certificates to be validated @ www.nstrang.com
 
 Domain: IONOS
 
-Current hosting: Netlify
+Current hosting: AWS using S3 bucket, Cloudfront, and ACM
 
-Fuuture hosting: AWS S3 bucket (Static webpage)
+Attached is documentation as to how I created this, including screenshots of my actual setup process. 
 
 
 
